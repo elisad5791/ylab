@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items iblockUid="products:products" exchangeVersion="2">
+	<item>
+		<field name="ACTIVE">
+			<value>
+				Y
+			</value>
+		</field>
+		<field name="ACTIVE_FROM" />
+		<field name="ACTIVE_TO" />
+		<field name="SORT">
+			<value>
+				500
+			</value>
+		</field>
+		<field name="NAME">
+			<value>
+				Костер
+			</value>
+		</field>
+		<field name="PREVIEW_PICTURE" />
+		<field name="PREVIEW_TEXT" />
+		<field name="PREVIEW_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="DETAIL_PICTURE" />
+		<field name="DETAIL_TEXT" />
+		<field name="DETAIL_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="CODE">
+			<value>
+				koster
+			</value>
+		</field>
+		<field name="TAGS" />
+		<field name="XML_ID">
+			<value>
+				1
+			</value>
+		</field>
+		<field name="IBLOCK_SECTION">
+			<value>
+				Конфеты|1|
+			</value>
+		</field>
+		<property name="WEIGHT">
+			<value>
+				1
+			</value>
+		</property>
+		<property name="UNIT">
+			<value>
+				da7bd015c48280e179d423e673720555
+			</value>
+		</property>
+	</item>
+	<item>
+		<field name="ACTIVE">
+			<value>
+				Y
+			</value>
+		</field>
+		<field name="ACTIVE_FROM" />
+		<field name="ACTIVE_TO" />
+		<field name="SORT">
+			<value>
+				500
+			</value>
+		</field>
+		<field name="NAME">
+			<value>
+				Мономах
+			</value>
+		</field>
+		<field name="PREVIEW_PICTURE" />
+		<field name="PREVIEW_TEXT" />
+		<field name="PREVIEW_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="DETAIL_PICTURE" />
+		<field name="DETAIL_TEXT" />
+		<field name="DETAIL_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="CODE">
+			<value>
+				monomah
+			</value>
+		</field>
+		<field name="TAGS" />
+		<field name="XML_ID">
+			<value>
+				2
+			</value>
+		</field>
+		<field name="IBLOCK_SECTION">
+			<value>
+				Конфеты|1|
+			</value>
+		</field>
+		<property name="WEIGHT">
+			<value>
+				1
+			</value>
+		</property>
+		<property name="UNIT">
+			<value>
+				da7bd015c48280e179d423e673720555
+			</value>
+		</property>
+	</item>
+	<item>
+		<field name="ACTIVE">
+			<value>
+				Y
+			</value>
+		</field>
+		<field name="ACTIVE_FROM" />
+		<field name="ACTIVE_TO" />
+		<field name="SORT">
+			<value>
+				500
+			</value>
+		</field>
+		<field name="NAME">
+			<value>
+				Левушка
+			</value>
+		</field>
+		<field name="PREVIEW_PICTURE" />
+		<field name="PREVIEW_TEXT" />
+		<field name="PREVIEW_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="DETAIL_PICTURE" />
+		<field name="DETAIL_TEXT" />
+		<field name="DETAIL_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="CODE">
+			<value>
+				levushka
+			</value>
+		</field>
+		<field name="TAGS" />
+		<field name="XML_ID">
+			<value>
+				3
+			</value>
+		</field>
+		<field name="IBLOCK_SECTION">
+			<value>
+				Конфеты|1|
+			</value>
+		</field>
+		<property name="WEIGHT">
+			<value>
+				1
+			</value>
+		</property>
+		<property name="UNIT">
+			<value>
+				da7bd015c48280e179d423e673720555
+			</value>
+		</property>
+	</item>
+	<item>
+		<field name="ACTIVE">
+			<value>
+				Y
+			</value>
+		</field>
+		<field name="ACTIVE_FROM" />
+		<field name="ACTIVE_TO" />
+		<field name="SORT">
+			<value>
+				500
+			</value>
+		</field>
+		<field name="NAME">
+			<value>
+				Яблоки
+			</value>
+		</field>
+		<field name="PREVIEW_PICTURE" />
+		<field name="PREVIEW_TEXT" />
+		<field name="PREVIEW_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="DETAIL_PICTURE" />
+		<field name="DETAIL_TEXT" />
+		<field name="DETAIL_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="CODE">
+			<value>
+				apples
+			</value>
+		</field>
+		<field name="TAGS" />
+		<field name="XML_ID">
+			<value>
+				4
+			</value>
+		</field>
+		<field name="IBLOCK_SECTION">
+			<value>
+				Овощи и фрукты|1|
+			</value>
+		</field>
+		<property name="WEIGHT">
+			<value>
+				1
+			</value>
+		</property>
+		<property name="UNIT">
+			<value>
+				9fc35946610ae05fcfcb0ead5279fe90
+			</value>
+		</property>
+	</item>
+	<item>
+		<field name="ACTIVE">
+			<value>
+				Y
+			</value>
+		</field>
+		<field name="ACTIVE_FROM" />
+		<field name="ACTIVE_TO" />
+		<field name="SORT">
+			<value>
+				500
+			</value>
+		</field>
+		<field name="NAME">
+			<value>
+				Виноград
+			</value>
+		</field>
+		<field name="PREVIEW_PICTURE" />
+		<field name="PREVIEW_TEXT" />
+		<field name="PREVIEW_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="DETAIL_PICTURE" />
+		<field name="DETAIL_TEXT" />
+		<field name="DETAIL_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="CODE">
+			<value>
+				grapes
+			</value>
+		</field>
+		<field name="TAGS" />
+		<field name="XML_ID">
+			<value>
+				5
+			</value>
+		</field>
+		<field name="IBLOCK_SECTION">
+			<value>
+				Овощи и фрукты|1|
+			</value>
+		</field>
+		<property name="WEIGHT">
+			<value>
+				1
+			</value>
+		</property>
+		<property name="UNIT">
+			<value>
+				da7bd015c48280e179d423e673720555
+			</value>
+		</property>
+	</item>
+	<item>
+		<field name="ACTIVE">
+			<value>
+				Y
+			</value>
+		</field>
+		<field name="ACTIVE_FROM" />
+		<field name="ACTIVE_TO" />
+		<field name="SORT">
+			<value>
+				500
+			</value>
+		</field>
+		<field name="NAME">
+			<value>
+				Персики
+			</value>
+		</field>
+		<field name="PREVIEW_PICTURE" />
+		<field name="PREVIEW_TEXT" />
+		<field name="PREVIEW_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="DETAIL_PICTURE" />
+		<field name="DETAIL_TEXT" />
+		<field name="DETAIL_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="CODE">
+			<value>
+				peaches
+			</value>
+		</field>
+		<field name="TAGS" />
+		<field name="XML_ID">
+			<value>
+				6
+			</value>
+		</field>
+		<field name="IBLOCK_SECTION">
+			<value>
+				Овощи и фрукты|1|
+			</value>
+		</field>
+		<property name="WEIGHT">
+			<value>
+				1
+			</value>
+		</property>
+		<property name="UNIT">
+			<value>
+				9fc35946610ae05fcfcb0ead5279fe90
+			</value>
+		</property>
+	</item>
+	<item>
+		<field name="ACTIVE">
+			<value>
+				Y
+			</value>
+		</field>
+		<field name="ACTIVE_FROM" />
+		<field name="ACTIVE_TO" />
+		<field name="SORT">
+			<value>
+				500
+			</value>
+		</field>
+		<field name="NAME">
+			<value>
+				Яблочный сок
+			</value>
+		</field>
+		<field name="PREVIEW_PICTURE" />
+		<field name="PREVIEW_TEXT" />
+		<field name="PREVIEW_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="DETAIL_PICTURE" />
+		<field name="DETAIL_TEXT" />
+		<field name="DETAIL_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="CODE">
+			<value>
+				applejuice
+			</value>
+		</field>
+		<field name="TAGS" />
+		<field name="XML_ID">
+			<value>
+				7
+			</value>
+		</field>
+		<field name="IBLOCK_SECTION">
+			<value>
+				Соки и нектары|1|
+			</value>
+		</field>
+		<property name="WEIGHT">
+			<value>
+				1
+			</value>
+		</property>
+		<property name="UNIT">
+			<value>
+				dac9fc32f700526ac086998d9fdffac8
+			</value>
+		</property>
+	</item>
+	<item>
+		<field name="ACTIVE">
+			<value>
+				Y
+			</value>
+		</field>
+		<field name="ACTIVE_FROM" />
+		<field name="ACTIVE_TO" />
+		<field name="SORT">
+			<value>
+				500
+			</value>
+		</field>
+		<field name="NAME">
+			<value>
+				Апельсиновый сок
+			</value>
+		</field>
+		<field name="PREVIEW_PICTURE" />
+		<field name="PREVIEW_TEXT" />
+		<field name="PREVIEW_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="DETAIL_PICTURE" />
+		<field name="DETAIL_TEXT" />
+		<field name="DETAIL_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="CODE">
+			<value>
+				orangejuice
+			</value>
+		</field>
+		<field name="TAGS" />
+		<field name="XML_ID">
+			<value>
+				8
+			</value>
+		</field>
+		<field name="IBLOCK_SECTION">
+			<value>
+				Соки и нектары|1|
+			</value>
+		</field>
+		<property name="WEIGHT">
+			<value>
+				1
+			</value>
+		</property>
+		<property name="UNIT">
+			<value>
+				dac9fc32f700526ac086998d9fdffac8
+			</value>
+		</property>
+	</item>
+	<item>
+		<field name="ACTIVE">
+			<value>
+				Y
+			</value>
+		</field>
+		<field name="ACTIVE_FROM" />
+		<field name="ACTIVE_TO" />
+		<field name="SORT">
+			<value>
+				500
+			</value>
+		</field>
+		<field name="NAME">
+			<value>
+				Сок манго
+			</value>
+		</field>
+		<field name="PREVIEW_PICTURE" />
+		<field name="PREVIEW_TEXT" />
+		<field name="PREVIEW_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="DETAIL_PICTURE" />
+		<field name="DETAIL_TEXT" />
+		<field name="DETAIL_TEXT_TYPE">
+			<value>
+				text
+			</value>
+		</field>
+		<field name="CODE">
+			<value>
+				mangojuice
+			</value>
+		</field>
+		<field name="TAGS" />
+		<field name="XML_ID">
+			<value>
+				9
+			</value>
+		</field>
+		<field name="IBLOCK_SECTION">
+			<value>
+				Соки и нектары|1|
+			</value>
+		</field>
+		<property name="WEIGHT">
+			<value>
+				1
+			</value>
+		</property>
+		<property name="UNIT">
+			<value>
+				85c677889611e38088a8fac2fc3476af
+			</value>
+		</property>
+	</item>
+</items>

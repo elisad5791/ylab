@@ -3,7 +3,7 @@
 namespace Sprint\Migration;
 
 
-class products20230824203247 extends Version
+class products20230825100747 extends Version
 {
   protected $description = "Инфоблок Продукты";
 
@@ -16,6 +16,31 @@ class products20230824203247 extends Version
   public function up()
   {
     $helper = $this->getHelperManager();
+    $helper->Iblock()->saveIblockType(
+      array(
+        'ID' => 'products',
+        'SECTIONS' => 'Y',
+        'EDIT_FILE_BEFORE' => '',
+        'EDIT_FILE_AFTER' => '',
+        'IN_RSS' => 'N',
+        'SORT' => '500',
+        'LANG' =>
+        array(
+          'ru' =>
+          array(
+            'NAME' => 'Продукция',
+            'SECTION_NAME' => 'Группа',
+            'ELEMENT_NAME' => 'Продукт',
+          ),
+          'en' =>
+          array(
+            'NAME' => 'Products',
+            'SECTION_NAME' => 'Group',
+            'ELEMENT_NAME' => 'Product',
+          ),
+        ),
+      )
+    );
     $iblockId = $helper->Iblock()->saveIblock(
       array(
         'IBLOCK_TYPE_ID' => 'products',
@@ -63,7 +88,7 @@ class products20230824203247 extends Version
         'ELEMENT_NAME' => 'Элемент',
         'EXTERNAL_ID' => NULL,
         'LANG_DIR' => '/',
-        'SERVER_NAME' => NULL,
+        'SERVER_NAME' => '',
         'IPROPERTY_TEMPLATES' =>
         array(
         ),
@@ -482,7 +507,6 @@ class products20230824203247 extends Version
       ),
     )
     );
-
   }
 
   /**
@@ -493,5 +517,6 @@ class products20230824203247 extends Version
   {
     $helper = $this->getHelperManager();
     $helper->Iblock()->deleteIblockIfExists('products');
+    $helper->Iblock()->deleteIblockTypeIfExists('products');
   }
 }
