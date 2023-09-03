@@ -1,4 +1,6 @@
 <?
+use Bitrix\Main\Security\Random;
+
 function dd($data)
 {
     echo '<pre>';
@@ -36,9 +38,9 @@ function codeHandler(&$arFields) {
 
     if($accessesId == $arFields['IBLOCK_ID'] && strlen($arFields["CODE"]) <= 0) 
     { 
-        $code = Cutil::translit($arFields["NAME"], "ru");
+        $code = Random::getString(10, true);
 
-        $arFilter = ['IBLOCK_ID' => $accessesId];
+        $arFilter = ['IBLOCK_CODE' => 'accesses'];
         $arSelect = ['CODE'];
         $rsItems = CIBlockElement::GetList(
             [],
@@ -53,7 +55,7 @@ function codeHandler(&$arFields) {
         }
         
         if (in_array($code, $codes)) {
-            $code .= '_' . strtolower(randString(3));
+            $code = Random::getString(10, true);
         }
 
         $arFields["CODE"] =  $code;
