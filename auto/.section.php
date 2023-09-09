@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Автомобили";
+$arDirProperties = Array(
+
+);
+?>
