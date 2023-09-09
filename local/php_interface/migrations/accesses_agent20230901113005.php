@@ -21,9 +21,9 @@ class accesses_agent20230901113005 extends Version
                 'MODULE_ID' => 'main',
                 'USER_ID' => NULL,
                 'SORT' => '0',
-                'NAME' => 'clearAccesses();',
+                'NAME' => 'Ylab\Mix\Access::clearAccesses();',
                 'ACTIVE' => 'Y',
-                'NEXT_EXEC' => '02.09.2023 11:28:00',
+                'NEXT_EXEC' => '10.09.2023 11:28:00',
                 'AGENT_INTERVAL' => '86400',
                 'IS_PERIOD' => 'Y',
                 'RETRY_COUNT' => '0',
@@ -38,6 +38,6 @@ class accesses_agent20230901113005 extends Version
     public function down()
     {
         $helper = $this->getHelperManager();
-        $helper->Agent()->deleteAgentIfExists('main', 'clearAccesses();');
+        $helper->Agent()->deleteAgentIfExists('main', 'Ylab\Mix\Access::clearAccesses();');
     }
 }
