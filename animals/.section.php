@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Животные";
+$arDirProperties = Array(
+
+);
+?>

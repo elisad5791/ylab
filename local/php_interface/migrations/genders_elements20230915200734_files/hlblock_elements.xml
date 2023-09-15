@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items hlblockUid="Genders" exchangeVersion="2">
+	<item>
+		<field name="UF_CODE">
+			<value>
+				male
+			</value>
+		</field>
+		<field name="UF_NAME">
+			<value>
+				Самец
+			</value>
+		</field>
+	</item>
+	<item>
+		<field name="UF_CODE">
+			<value>
+				female
+			</value>
+		</field>
+		<field name="UF_NAME">
+			<value>
+				Самка
+			</value>
+		</field>
+	</item>
+</items>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items hlblockUid="Kinds" exchangeVersion="2">
+	<item>
+		<field name="UF_CODE">
+			<value>
+				dog
+			</value>
+		</field>
+		<field name="UF_NAME">
+			<value>
+				Собака
+			</value>
+		</field>
+	</item>
+	<item>
+		<field name="UF_CODE">
+			<value>
+				cat
+			</value>
+		</field>
+		<field name="UF_NAME">
+			<value>
+				Кошка
+			</value>
+		</field>
+	</item>
+	<item>
+		<field name="UF_CODE">
+			<value>
+				parrot
+			</value>
+		</field>
+		<field name="UF_NAME">
+			<value>
+				Попугай
+			</value>
+		</field>
+	</item>
+	<item>
+		<field name="UF_CODE">
+			<value>
+				hamster
+			</value>
+		</field>
+		<field name="UF_NAME">
+			<value>
+				Хомяк
+			</value>
+		</field>
+	</item>
+</items>
